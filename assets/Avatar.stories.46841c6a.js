@@ -1,0 +1,2 @@
+import{A as a}from"./index.7df27232.js";import"./index.b7362e4c.js";import"./iframe.64361007.js";import"./index.ea8248b1.js";import"./jsx-runtime.f884ee49.js";const c={title:"Data display/Avatar",component:a,args:{src:"https://github.com/nicholasmacedoo.png",alt:"Nicholas Macedo"}},m={},p={args:{src:void 0}},l=["Primary","WithFallback"];export{m as Primary,p as WithFallback,l as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.46841c6a.js.map
